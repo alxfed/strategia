@@ -1,10 +1,10 @@
-# Package name
-Package Name
+# Strategia
+στρατηγία
 <pre>
-  pip install independent-machine
+  pip install strategia
 </pre>
 Then:
 ```Python
   # Python
-  import independent_machine
+  import strategia
 ```
